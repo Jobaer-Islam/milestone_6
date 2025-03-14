@@ -2,7 +2,7 @@ const sahabas = ["Mus'ab", "Udaida", "Umar"];
 
 const newSahabas = ["Usman", "Abu-Bakar", "Hamza", ...sahabas];
 
-console.log(newSahabas.value);
+console.log(newSahabas);
 
 const numbers = [1, 3, 45, 556, 67, 677, 87];
 
