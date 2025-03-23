@@ -14,4 +14,3 @@ const loadData = async () => {
     }
 }
 loadData();
-alert()
